@@ -41,6 +41,7 @@ Por qu ́e dice "odio tener clases los viernes"?
 Porque no puedo concentrarme y el fin de semana me parece muy corto.
 Muy interesante!! Hablaremos de ello con m ́as detalle en la siguiente sesi ́on.
 Ojo! El texto de la segunda, quinta y novena l ́ınea es proporcionado por el usuario.
+
 2 RFC (5 pts)
 2.1 Descripci ́on general
 
